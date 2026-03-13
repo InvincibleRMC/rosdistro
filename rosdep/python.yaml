@@ -404,7 +404,7 @@ pydocstyle:
   rhel:
     '*': [python3-pydocstyle]
     '7': null
-  ubuntu: [pydocstyle]
+  ubuntu: [python3-pydocstyle]
 pydrive-pip:
   debian:
     pip:
